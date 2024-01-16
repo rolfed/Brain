@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       FF7D88A7-44EB-4122-ABBB-907B6BE22D99
+:END:
+#+title: back-exposure
+
+What is the back exposure given a particular take down, throw, or transition.
+
+For example [[id:C7804431-28FF-49F3-B18E-7E2A63EDCDCD][drop-seoi-nage]] has very little back exposure and in contrast [[id:3DC15869-E2F4-4BA9-969C-47C183BCF565][ippon-seoi-nage]] has high level of
+back exposure. As we develop our stand up game we must also understand the short comings of each throw, take down or position.

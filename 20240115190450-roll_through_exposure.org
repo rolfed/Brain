@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       7283A1EA-6CE7-4F98-9B19-DCB24B373253
+:END:
+#+title: roll-through-exposure
+

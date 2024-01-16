@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       AB410F43-CDE2-43D8-A703-C8CC7C744189
+:END:
+#+title: belt-exposure
+

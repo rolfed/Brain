@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       D33589DC-D4D4-427E-BB69-20389FB9E129
+:END:
+#+title: weight-exposure
+

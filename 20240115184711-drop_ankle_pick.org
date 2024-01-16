@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       45AB07D9-369C-45F7-A870-1C5FCEAE0396
+:END:
+#+title: drop-ankle-pick
+* Introduction
+
+Each take down has levels of exposure that we must understand. There are 6 criteria we need to consider:
+
+1. [[id:FF7D88A7-44EB-4122-ABBB-907B6BE22D99][back-exposure]]
+2. [[id:B9C8B532-E98B-4A5E-A9A2-86FC14D06492][kneck-exposure]]
+3. [[id:AB410F43-CDE2-43D8-A703-C8CC7C744189][belt-exposure]]
+4. [[id:D33589DC-D4D4-427E-BB69-20389FB9E129][weight-exposure]] 
+5. [[id:7283A1EA-6CE7-4F98-9B19-DCB24B373253][roll-through-exposure]]  
+6. [[id:450855F8-D379-4963-BA01-47C0853539B0][degree-of-difficulty-exposure]]
+
+* Warm Up
+
+** Grip break
+
+*** Gi
+
+Same side grip breaking. The intention is break the grip and gain control of the power hand. 
+
+*** NoGi
+Same side grip grab with the assistance to the second hand to control the grip.
+
+** Grip break with level change
+** Grip break to ankle pick

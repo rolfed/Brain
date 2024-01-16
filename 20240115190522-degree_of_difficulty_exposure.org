@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       450855F8-D379-4963-BA01-47C0853539B0
+:END:
+#+title: degree-of-difficulty-exposure
+

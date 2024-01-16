@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       B9C8B532-E98B-4A5E-A9A2-86FC14D06492
+:END:
+#+title: kneck-exposure
+

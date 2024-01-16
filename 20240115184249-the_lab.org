@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       9A7B7386-659D-4767-9101-098275248660
+:END:
+#+title: the-lab
+
+* Lesson Plans
+** Standup
+*** Beginner
+[[id:45AB07D9-369C-45F7-A870-1C5FCEAE0396][- drop-ankle-pick]]
+

@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       FC8D28F2-B44C-464C-B26D-EC1974CF1670
+:END:
+#+title: Programming
+
+* Languages
+Here are some great programming languages.
+
+[[id:FD6B5BBD-CB8D-426E-9F1D-6EB306B9A4E6][- Scheme]]
+- [[id:E8A85891-F052-462E-888F-7F4FAAC33C6D][Emacs Lisp]]
+- [[id:FD6B5BBD-CB8D-426E-9F1D-6EB306B9A4E6][Scheme]]
+
+* Resources
+:PROPERTIES:
+:ID:       5848AAD3-05BF-4770-AEFC-2F80A33B2734
+:END:

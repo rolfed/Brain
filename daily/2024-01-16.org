@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       DB2D46AF-7D38-4FB7-B6DF-DD8831BBFE10
+:END:
+#+title: 2024-01-16
+* Tasks:
+- worked with help desk to resolve the issue with github not loading and hangin in orka
+- paired with Ken and Prashant to resolve a unit test issue
+- [SHER-1884](https://experianecs.atlassian.net/jira/software/c/projects/SHER/boards/524?assignee=6307ae4107b7804d7aa22f9a&selectedIssue=SHER-1884)
+
+

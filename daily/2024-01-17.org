@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       AB36C114-6335-41C6-9F62-1B1792C0D8C2
+:END:
+#+title: 2024-01-17
+* Discuss Sync
+** TODO follow up the runbook updates Chris Orchid asked:
+Couple Login runbook enhancements (these can both be in a follow-up ticket):
+The steps are ran through last night of breaking down the rate could be included in the runbook, so that TOC can narrow things down and the team has some initial steps
+The Login Submit -> Login Success rate could be a great addition as its own alert, as that metric would have had a much more easily identifiable gap, and we could have caught the issue sooner.
+Discussiond: https://experian.slack.com/archives/C06E6KXPJQJ/p1705447761108809
+** TODO follow up on bug bash ticket request MIN-14536
+Check if the ticket was brought into sprint 
+SCHEDULED: <2024-01-25 Thu>
+Discussion: https://experian.slack.com/archives/C05GLH8GQK0/p1705447359522609
+** TODO SHER-1836 - marked to go out tomorrow however it is still in code review
+Check if the ticket was brought into sprint
+SCHEDULED: <2024-01-31 Wed>
+ticket: https://experianecs.atlassian.net/issues/SHER-1836?jql=PTD%20%3D%20%272024-01-18%27%20and%20labels%20%3D%20%27Papoy%27
